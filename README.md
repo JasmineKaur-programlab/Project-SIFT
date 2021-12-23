@@ -1,2 +1,2 @@
 # Project-SIFT
-A sign language descriptor on SIFT
+A sign language descriptor using SIFT
